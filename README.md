@@ -13,3 +13,5 @@ Who even has a graphical environment these days?
 | Z                  | Zoom in    |
 | X                  | Zoom out   |
 | Q                  | Quit       |
+
+Eventually, hopefully this will become a demo of multithreading and SIMD intrinsics
