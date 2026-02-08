@@ -8,7 +8,7 @@ Who even has a graphical environment these days?
 
 #### Keys ####
 | Key | Function |
-|---|---|---|
+|---|---|
 | UP,DOWN,LEFT,RIGHT | Pan Camera |
 | Z                  | Zoom in    |
 | X                  | Zoom out   |
