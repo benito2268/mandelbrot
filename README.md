@@ -4,7 +4,7 @@ Who even has a graphical environment these days?
 <img width="2002" height="1220" alt="image" src="https://github.com/user-attachments/assets/aaa12992-5c06-4614-919e-be3aee16c743" />
 
 #### Install ####
-* `sudo apt install libncurses-dev && make`
+* `sudo <your-package-manager> install libncurses-dev && make`
 
 #### Keys ####
 | Key | Function |
